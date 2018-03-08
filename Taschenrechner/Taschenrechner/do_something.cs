@@ -19,5 +19,11 @@ namespace Taschenrechner
             double ergebnis = zahl1 * zahl2;
             return ergebnis.ToString();
         }
+
+        public string subtraktion(double zahl1, double zahl2)
+        {
+            double ergebnis = zahl1 - zahl2;
+            return ergebnis.ToString();
+        }
     }
 }
