@@ -45,7 +45,7 @@ namespace Taschenrechner
             }
             else if (wert == "/")
             {
-                //ergebnis = dos.division(zahl1, zahl2);
+                ergebnis = dos.division(zahl1, zahl2);
             }
 
             Console.WriteLine(ergebnis);

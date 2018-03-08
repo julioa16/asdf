@@ -25,5 +25,10 @@ namespace Taschenrechner
             double ergebnis = zahl1 - zahl2;
             return ergebnis.ToString();
         }
+        public string division(double zahl1, double zahl2)
+        {
+            double ergebnis = zahl1 - zahl2;
+            return ergebnis.ToString();
+        }
     }
 }

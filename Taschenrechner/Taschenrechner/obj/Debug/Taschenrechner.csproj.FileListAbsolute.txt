@@ -13,3 +13,6 @@ C:\Users\Julia\Documents\MEINE ORDNER\Berufsschule\11FI1\GitHub\Taschenrechner\T
 C:\Users\Julia\Documents\MEINE ORDNER\Berufsschule\ddddd\asdf-master\asdf\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
 C:\Users\Julia\Documents\MEINE ORDNER\Berufsschule\ddddd\asdf-master\asdf\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
 C:\Users\Julia\Documents\MEINE ORDNER\Berufsschule\ddddd\asdf-master\asdf\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\Julia\Documents\MEINE ORDNER\Berufsschule\dfdfdf\asdf\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Julia\Documents\MEINE ORDNER\Berufsschule\dfdfdf\asdf\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Julia\Documents\MEINE ORDNER\Berufsschule\dfdfdf\asdf\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
