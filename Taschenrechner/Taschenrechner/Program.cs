@@ -38,6 +38,7 @@ namespace Taschenrechner
             else if (wert == "-")
             {
                 ergebnis = dos.subtraktion(zahl1, zahl2);
+                ergebnis = dos.subtraktion_(zahl1, zahl2);
             }
             else if (wert == "*")
             {
